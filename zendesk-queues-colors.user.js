@@ -5,7 +5,7 @@
 // @description  Color coding ticket queues
 // @author       Senff
 // @updateURL    https://github.com/senff/Zendesk-queues-colors/raw/master/zendesk-queues-colors.user.js
-// @match        https://woothemes.zendesk.com/agent/filters/*
+// @match        https://woothemes.zendesk.com/agent/*
 // @grant        none
 // ==/UserScript==
 
